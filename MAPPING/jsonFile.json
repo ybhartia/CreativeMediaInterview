@@ -1,0 +1,4132 @@
+
+[
+ {
+ "name": "Student & Staff Resources",
+ "locations": [
+               {
+               "name": "Buehler Alumni and Visitor Center",
+               "link": "http://www.alumnicenter.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.53513533936042",
+               "lng": "-121.74820840358734",
+               "icon": "StudentResource.png",
+               "glyph": "fa-graduation-cap"
+               },
+               {
+               "name": "Financial Aid and Scholarships",
+               "link": "http://financialaid.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.5415",
+               "lng": "-121.7476",
+               "icon": "StudentResource.png",
+               "glyph": "fa-graduation-cap"
+               },
+               {
+               "name": "Graduate Studies Admissions",
+               "link": "http://gradstudies.ucdavis.edu",
+               "abbr": "",
+               "lat": "38.537022",
+               "lng": "-121.749126",
+               "icon": "StudentResource.png",
+               "glyph": "fa-graduation-cap"
+               },
+               {
+               "name": "Registrar",
+               "link": "http://registrar.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.537063",
+               "lng": "-121.748862",
+               "icon": "StudentResource.png",
+               "glyph": "fa-graduation-cap"
+               },
+               {
+               "name": "Undergraduate Admissions",
+               "link": "http://admissions.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.536972",
+               "lng": "-121.749448",
+               "icon": "StudentResource.png",
+               "glyph": "fa-graduation-cap"
+               },
+               {
+               "name": "Welcome Center",
+               "link": "http://visit.ucdavis.edu/tourreg/directions.cfm",
+               "abbr": "",
+               "lat": "38.534300",
+               "lng": "-121.747356",
+               "icon": "StudentResource.png",
+               "glyph": "fa-graduation-cap"
+               },
+               {
+               "name": "Agricultural & Resource Economics Library",
+               "link": "http://arelibrary.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.543132",
+               "lng": "-121.747517",
+               "icon": "Book.png",
+               "glyph": "fa-book"
+               },
+               {
+               "name": "Carlson Health Sciences Library",
+               "link": "http://www.lib.ucdavis.edu/dept/hsl/",
+               "abbr": "",
+               "lat": "38.533489",
+               "lng": "-121.763429",
+               "icon": "Book.png",
+               "glyph": "fa-book"
+               },
+               {
+               "name": "Law Library",
+               "link": "http://www.law.ucdavis.edu/library/",
+               "abbr": "",
+               "lat": "38.535978",
+               "lng": "-121.749730",
+               "icon": "Book.png",
+               "glyph": "fa-book"
+               },
+               {
+               "name": "Peter J. Shields Library",
+               "link": "http://www.lib.ucdavis.edu/ul/libcoll/shields.php",
+               "abbr": "",
+               "lat": "38.539740",
+               "lng": "-121.749113",
+               "icon": "Book.png",
+               "glyph": "fa-book"
+               },
+               {
+               "name": "Physical Sciences & Engineering Library",
+               "link": "http://www.lib.ucdavis.edu/dept/pse/",
+               "abbr": "",
+               "lat": "38.537312",
+               "lng": "-121.750840",
+               "icon": "Book.png",
+               "glyph": "fa-book"
+               },
+               {
+               "name": "Women's Resources & Research Center ",
+               "link": "http://wrrc.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.541793",
+               "lng": "-121.748273",
+               "icon": "Book.png",
+               "glyph": "fa-book"
+               },
+               {
+               "name": "Hutchison Hall (Room 78)",
+               "link": "http://clm.ucdavis.edu/rooms/available/",
+               "abbr": "",
+               "lat": "38.540962",
+               "lng": "-121.753678",
+               "icon": "Computer.png",
+               "glyph": "fa-desktop"
+               },
+               {
+               "name": "Olson Hall (Room 15)",
+               "link": "http://clm.ucdavis.edu/rooms/available/",
+               "abbr": "",
+               "lat": "38.54001",
+               "lng": "-121.747623",
+               "icon": "Computer.png",
+               "glyph": "fa-desktop"
+               },
+               {
+               "name": "Shields Library (Rooms 162 & 182)",
+               "link": "http://clm.ucdavis.edu/rooms/available/",
+               "abbr": "",
+               "lat": "38.539486",
+               "lng": "-121.749020",
+               "icon": "Computer.png",
+               "glyph": "fa-desktop"
+               },
+               {
+               "name": "Student Community Center (Room 2101)",
+               "link": "http://clm.ucdavis.edu/rooms/available/",
+               "abbr": "",
+               "lat": "38.539457",
+               "lng": "-121.751646",
+               "icon": "Computer.png",
+               "glyph": "fa-desktop"
+               },
+               {
+               "name": "Wellman Hall (Room 102)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.541337",
+               "lng": "-121.751393",
+               "icon": "Computer.png",
+               "glyph": "fa-desktop"
+               },
+               {
+               "name": "Amazon @ UC davis",
+               "link": "",
+               "abbr": "",
+               "lat": "38.542848",
+               "lng": "-121.749380",
+               "icon": "Shopping.png",
+               "glyph": "fa-shopping-cart"
+               },
+               {
+               "name": "Corral Store",
+               "link": "",
+               "abbr": "",
+               "lat": "38.542435",
+               "lng": "-121.749233",
+               "icon": "Shopping.png",
+               "glyph": "fa-shopping-cart"
+               },
+               {
+               "name": "Downtown Store",
+               "link": "",
+               "abbr": "",
+               "lat": "38.543373",
+               "lng": "-121.740219",
+               "icon": "Shopping.png",
+               "glyph": "fa-shopping-cart"
+               },
+               {
+               "name": "Main Store",
+               "link": "http://ucdavisbookstore.com/home.aspx",
+               "abbr": "",
+               "lat": "38.542754",
+               "lng": "-121.749193",
+               "icon": "Shopping.png",
+               "glyph": "fa-shopping-cart"
+               },
+               {
+               "name": "Pro Shop",
+               "link": "",
+               "abbr": "",
+               "lat": "38.543028",
+               "lng": "-121.759173",
+               "icon": "Shopping.png",
+               "glyph": "fa-shopping-cart"
+               },
+               {
+               "name": "Sacramento Store",
+               "link": "",
+               "abbr": "",
+               "lat": "38.554634",
+               "lng": "-121.458210",
+               "icon": "Shopping.png",
+               "glyph": "fa-shopping-cart"
+               },
+               {
+               "name": "Silo Store",
+               "link": "http://bookstore.ucdavis.edu/stores/Silo.cfm",
+               "abbr": "",
+               "lat": "38.538724",
+               "lng": "-121.753095",
+               "icon": "Shopping.png",
+               "glyph": "fa-shopping-cart"
+               },
+               {
+               "name": "Veterinary Store",
+               "link": "http://bookstore.ucdavis.edu/stores/Veterinary.cfm",
+               "abbr": "",
+               "lat": "38.533525",
+               "lng": "-121.763491",
+               "icon": "Shopping.png",
+               "glyph": "fa-shopping-cart"
+               },
+               {
+               "name": "Activities & Recreation Center (ARC)",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5429115",
+               "lng": "-121.7596512",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Advanced Materials Research Laboratory",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5322838",
+               "lng": "-121.7584839",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Aggie Stadium East",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5365486",
+               "lng": "-121.7619247",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Aggie Stadium North",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5374794",
+               "lng": "-121.7624588",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Aggie Stadium West",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5365562",
+               "lng": "-121.7635880",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Arboretum Rest Room & Storage Shed",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5295258",
+               "lng": "-121.7628708",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Art Building",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5389633",
+               "lng": "-121.7485352",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Bainer Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5371971",
+               "lng": "-121.7532501",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Briggs Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5401726",
+               "lng": "-121.7561340",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Campbell Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5351067",
+               "lng": "-121.7583923",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Center for Companion Animal Health",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5309906",
+               "lng": "-121.7632217",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Chemistry",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5382309",
+               "lng": "-121.7511749",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Cowell Building",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5443535",
+               "lng": "-121.7541351",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Cuarto Dining Commons",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5472641",
+               "lng": "-121.7631683",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Currant Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5371933",
+               "lng": "-121.7564774",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Educational Opportunity Program (EOP)",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5408440",
+               "lng": "-121.7479172",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Emerson Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5476494",
+               "lng": "-121.7636414",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Everson Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5384941",
+               "lng": "-121.7502365",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Fire & Police Building",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5404358",
+               "lng": "-121.7576752",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Genome & Biomedical Sciences Facility",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5351181",
+               "lng": "-121.7651825",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Gourley Clinical Teaching Center",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5315819",
+               "lng": "-121.7668839",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Hawthorn Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5372543",
+               "lng": "-121.7581635",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Hickey Gym",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5438004",
+               "lng": "-121.7486877",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Hunt Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5434875",
+               "lng": "-121.7507095",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Internal Audit Trailer",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5435410",
+               "lng": "-121.7630615",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Kearney Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5358429",
+               "lng": "-121.7583237",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Kerr Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5415611",
+               "lng": "-121.7519989",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "King Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5359688",
+               "lng": "-121.7497559",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Laben Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5354385",
+               "lng": "-121.7583237",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Live Oak Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5372772",
+               "lng": "-121.7572861",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Maddy Lab",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5333519",
+               "lng": "-121.7666779",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Mahogany Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5367126",
+               "lng": "-121.7584076",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Medical Sciences I B (Carlson Health Sciences Library)",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5335007",
+               "lng": "-121.7634888",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Meyer Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5347710",
+               "lng": "-121.7545090",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Mondavi Center for the Performing Arts - Administration",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5341301",
+               "lng": "-121.7498703",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "North Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5417938",
+               "lng": "-121.7482758",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Peter J. Shields Library",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5397415",
+               "lng": "-121.7491150",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Physical Sciences & Engineering Library",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5373116",
+               "lng": "-121.7508392",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Physics Building",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5365982",
+               "lng": "-121.7513046",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Pine Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5368118",
+               "lng": "-121.7559738",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Plant & Environmental Sciences",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5434265",
+               "lng": "-121.7520294",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Potter Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5346642",
+               "lng": "-121.7584457",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Pritchard VMTH",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5320816",
+               "lng": "-121.7642593",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Regan Campo",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5442047",
+               "lng": "-121.7567444",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Regan Central Commons",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5439644",
+               "lng": "-121.7562180",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Regan Indio",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5441475",
+               "lng": "-121.7549515",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Regan Rienda",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5444641",
+               "lng": "-121.7563477",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Regan Nova",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5444603",
+               "lng": "-121.7558975",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Regan Sereno",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5439339",
+               "lng": "-121.7554550",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Regan Talara",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5442581",
+               "lng": "-121.7555313",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Robbins Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5405579",
+               "lng": "-121.7518387",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Robbins Hall Annex",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5410233",
+               "lng": "-121.7522659",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Robert Mondavi Institute - Sensory",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5327950",
+               "lng": "-121.7516708",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Robert Mondavi Institute - South",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5326462",
+               "lng": "-121.7505798",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Scrub Oak Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5367355",
+               "lng": "-121.7566376",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Segundo Bixby",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5444260",
+               "lng": "-121.7574387",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Segundo Gilmore",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5445633",
+               "lng": "-121.7587585",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Segundo Malcolm",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5454369",
+               "lng": "-121.7574310",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Segundo Miller",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5458565",
+               "lng": "-121.7571945",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Segundo North - Henry Alder Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5458450",
+               "lng": "-121.7583542",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Segundo Ryerson",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5453949",
+               "lng": "-121.7585373",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Segundo Services Center",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5449791",
+               "lng": "-121.7586899",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Sequoia Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5368385",
+               "lng": "-121.7577667",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Silo",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5387230",
+               "lng": "-121.7530975",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Silo South",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5381699",
+               "lng": "-121.7526016",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Social Sciences & Humanities",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5429382",
+               "lng": "-121.7482147",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Sproul Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5399933",
+               "lng": "-121.7470245",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Student Affairs Annex",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5447426",
+               "lng": "-121.7545624",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Student Community Center",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5395279",
+               "lng": "-121.7516403",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Student Health & Wellness Center",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5426903",
+               "lng": "-121.7615433",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Student Housing",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5431366",
+               "lng": "-121.7561111",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Surge II",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5386810",
+               "lng": "-121.7547379",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "TB 172",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.537748",
+               "lng": "-121.756549",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Tercero Dining Commons",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5361938",
+               "lng": "-121.7574997",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "The Grove (Surge III)",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5384789",
+               "lng": "-121.7553864",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Thoreau Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5468063",
+               "lng": "-121.7639771",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Thurman Laboratory",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5327911",
+               "lng": "-121.7664490",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Transportation and Parking Services",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5408020",
+               "lng": "-121.7585831",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Tupper Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5339775",
+               "lng": "-121.7647781",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "University House & Annex",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5410347",
+               "lng": "-121.7474365",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Urban Forestry Building",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5360260",
+               "lng": "-121.7467117",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Valley Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5328217",
+               "lng": "-121.7637024",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Vet Med 3A",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5326500",
+               "lng": "-121.7653732",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Vet Med Equine Athletic Performance Lab",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5310822",
+               "lng": "-121.7658844",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Vet Med Laboratory Facility Large Animal Holding",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5310936",
+               "lng": "-121.7666397",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "VMTH Office Annex",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5321655",
+               "lng": "-121.7635040",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "VMTH Surgical",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5314178",
+               "lng": "-121.7649841",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Wall Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5348511",
+               "lng": "-121.7575912",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Webster Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5468750",
+               "lng": "-121.7632446",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Wyatt Pavilion",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5381203",
+               "lng": "-121.7466965",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Wright Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5387459",
+               "lng": "-121.7478943",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               },
+               {
+               "name": "Young Hall",
+               "link": "http://lgbtqia.ucdavis.edu/support/restroom/index.html",
+               "abbr": "",
+               "lat": "38.5424004",
+               "lng": "-121.7477112",
+               "icon": "UniversalAccess.png",
+               "glyph": "fa-universal-access"
+               }
+               ]
+ },
+ {
+ "name": "Housing & Dining",
+ "locations": [
+               {
+               "name": "Crossroads Convenience Store ",
+               "link": "http://dining.ucdavis.edu/res-oxford.html",
+               "abbr": "",
+               "lat": "38.547246",
+               "lng": "-121.763027",
+               "icon": "ResDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Cuarto Dining Commons",
+               "link": "http://dining.ucdavis.edu/res-oxford.html",
+               "abbr": "",
+               "lat": "38.547244",
+               "lng": "-121.763255",
+               "icon": "ResDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Junction Convenience Store",
+               "link": "http://dining.ucdavis.edu/res-trudys.html",
+               "abbr": "",
+               "lat": "38.545036",
+               "lng": "-121.758272",
+               "icon": "ResDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Segundo Dining Commons",
+               "link": "http://dining.ucdavis.edu/res-segundo.html",
+               "abbr": "",
+               "lat": "38.543936",
+               "lng": "-121.758088",
+               "icon": "ResDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Tercero Dining Commons",
+               "link": "http://dining.ucdavis.edu/res-tercero.html",
+               "abbr": "",
+               "lat": "38.536192",
+               "lng": "-121.757503",
+               "icon": "ResDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Trudy's",
+               "link": "http://dining.ucdavis.edu/res-trudys.html",
+               "abbr": "",
+               "lat": "38.536102",
+               "lng": "-121.757106",
+               "icon": "ResDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Bio Brew",
+               "link": "http://dining.ucdavis.edu/ret-bio.html",
+               "abbr": "",
+               "lat": "38.539815",
+               "lng": "-121.754787",
+               "icon": "RetailDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Coffee House",
+               "link": "http://coffeehouse.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.542061",
+               "lng": "-121.749853",
+               "icon": "RetailDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "CoHo South Cafe",
+               "link": "http://coffeehouse.ucdavis.edu/our-facilities/coho-south-cafe/",
+               "abbr": "",
+               "lat": "38.539527",
+               "lng": "-121.751609",
+               "icon": "RetailDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Gunrock Pub",
+               "link": "http://gunrockpub.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.538724",
+               "lng": "-121.753095",
+               "icon": "RetailDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Hyatt Place Gallery",
+               "link": "http://ucdavis.place.hyatt.com/hyatt/hotels/place/dining.jsp",
+               "abbr": "",
+               "lat": "38.535413",
+               "lng": "-121.746331",
+               "icon": "RetailDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Scrubs",
+               "link": "http://dining.ucdavis.edu/ret-scrubs.html",
+               "abbr": "",
+               "lat": "38.533289",
+               "lng": "-121.763595",
+               "icon": "RetailDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Silo",
+               "link": "http://campusunions.ucdavis.edu/?page_id=496",
+               "abbr": "",
+               "lat": "38.538799",
+               "lng": "-121.752883",
+               "icon": "RetailDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Starbucks at the ARC",
+               "link": "http://dining.ucdavis.edu/ret-starbucks.html",
+               "abbr": "",
+               "lat": "38.541812",
+               "lng": "-121.759624",
+               "icon": "RetailDining.png",
+               "glyph": "fa-cutlery"
+               },
+               {
+               "name": "Cuarto Residence Halls",
+               "link": "http://www.housing.ucdavis.edu/housing/",
+               "abbr": "",
+               "lat": "38.547231",
+               "lng": "-121.763612",
+               "icon": "Housing.png",
+               "glyph": "fa-home"
+               },
+               {
+               "name": "Regan Residence Halls",
+               "link": "http://www.housing.ucdavis.edu/housing/",
+               "abbr": "",
+               "lat": "38.544237",
+               "lng": "-121.755798",
+               "icon": "Housing.png",
+               "glyph": "fa-home"
+               },
+               {
+               "name": "Segundo Residence Halls",
+               "link": "http://www.housing.ucdavis.edu/housing/",
+               "abbr": "",
+               "lat": "38.544920",
+               "lng": "-121.757908",
+               "icon": "Housing.png",
+               "glyph": "fa-home"
+               },
+               {
+               "name": "Solano Park Apartments",
+               "link": "http://www.housing.ucdavis.edu/housing/",
+               "abbr": "",
+               "lat": "38.5383",
+               "lng": "-121.744",
+               "icon": "Housing.png",
+               "glyph": "fa-home"
+               },
+               {
+               "name": "Tercero Residence Halls",
+               "link": "http://www.housing.ucdavis.edu/housing/",
+               "abbr": "",
+               "lat": "38.536121",
+               "lng": "-121.757141",
+               "icon": "Housing.png",
+               "glyph": "fa-home"
+               },
+               {
+               "name": "8th & Wake",
+               "link": "http://www.housing.ucdavis.edu/housing/apartments-8th-and-wake.asp",
+               "abbr": "",
+               "lat": "38.549371",
+               "lng": "-121.767040",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Baggins End (Domes)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.543345",
+               "lng": "-121.764981",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "The Colleges at La Rue",
+               "link": "http://www.housing.ucdavis.edu/housing/",
+               "abbr": "",
+               "lat": "38.541170",
+               "lng": "-121.762198",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "La Rue Apartments",
+               "link": "http://www.housing.ucdavis.edu/housing/",
+               "abbr": "",
+               "lat": "38.544283",
+               "lng": "-121.761079",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Primero Grove Apartments",
+               "link": "http://www.housing.ucdavis.edu/housing/",
+               "abbr": "",
+               "lat": "38.545380",
+               "lng": "-121.755597",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "The Ramble Apartments",
+               "link": "http://www.ucdaviswestvillage.com/the-ramble-apartments",
+               "abbr": "",
+               "lat": "38.540194",
+               "lng": "-121.770623",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Russell Park Apartments",
+               "link": "http://www.housing.ucdavis.edu/housing/",
+               "abbr": "",
+               "lat": "38.545005",
+               "lng": "-121.763171",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Solstice",
+               "link": "http://www.carmelapartments.com/uc-davis-west-village-davis-ca",
+               "abbr": "",
+               "lat": "38.541460",
+               "lng": "-121.772557",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Tri-Cooperatives",
+               "link": "http://www.housing.ucdavis.edu/housing/tri_cooperatives.asp",
+               "abbr": "",
+               "lat": "38.543200",
+               "lng": "-121.755412",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Viridian",
+               "link": "http://www.ucdaviswestvillage.com/viridian/",
+               "abbr": "",
+               "lat": "38.541407",
+               "lng": "-121.770971",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               }
+               ]
+ },
+ {
+ "name": "Places of Interest",
+ "locations": [
+               {
+               "name": "Animal Science GATEway Garden",
+               "link": "http://arboretum.ucdavis.edu/default.aspx",
+               "abbr": "",
+               "lat": "38.533076",
+               "lng": "-121.755894",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Arboretum GATEway Garden",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.540050",
+               "lng": "-121.741895",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Arboretum Headquarters",
+               "link": "http://arboretum.ucdavis.edu/default.aspx",
+               "abbr": "",
+               "lat": "38.533929",
+               "lng": "-121.753233",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Arboretum Teaching Nursery",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.530701",
+               "lng": "-121.762",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Arboretum Terrace Garden and Lois Crowe Patio",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.541406",
+               "lng": "-121.74017",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Australian Collection",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.539986",
+               "lng": "-121.743451",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "California Foothill Collection",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.534719",
+               "lng": "-121.750065",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Carolee Shields White Flower Garden and Gazebo",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.529267",
+               "lng": "-121.762348",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Conifer Collection",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": " 38.534170",
+               "lng": "-121.752354",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Desert Collection",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": " 38.535039",
+               "lng": "-121.750325",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "East Asian Collection",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.537801",
+               "lng": "-121.748377",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Eric E. Conn Acacia Grove",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.532408",
+               "lng": "-121.755521",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Geology GATEway Garden",
+               "link": "http://arboretum.ucdavis.edu/default.aspx",
+               "abbr": "",
+               "lat": "38.534824",
+               "lng": "-121.751385",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Mary Wattis Brown Garden of California Native Plants",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.537877",
+               "lng": "-121.747267",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Mediterranean Collection",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.530811",
+               "lng": "-121.76012",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Native American Contemplative Garden",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": " 38.535419",
+               "lng": "-121.749566",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Nature's Gallery Court",
+               "link": "",
+               "abbr": "",
+               "lat": "38.529989",
+               "lng": "-121.762118",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "North Coast Collection",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.539171",
+               "lng": "-121.746702",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Peter J. Shields Oak Grove",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.529216",
+               "lng": "-121.764519",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Ruth Risdon Storer Garden",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.529807",
+               "lng": "-121.763052",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "South American Collection",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.531773",
+               "lng": "-121.758086",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Southwest U.S.A. & Mexican Collection",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.532999",
+               "lng": "-121.754844",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "T. Elliot Weier Redwood Grove",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": " 38.539019",
+               "lng": "-121.746439",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Warren G. Roberts Redbud Collection",
+               "link": "http://arboretum.ucdavis.edu/visitor_map.aspx",
+               "abbr": "",
+               "lat": "38.534542",
+               "lng": "-121.751578",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Wyatt Deck",
+               "link": "http://arboretum.ucdavis.edu/default.aspx",
+               "abbr": "",
+               "lat": "38.538198",
+               "lng": "-121.747097",
+               "icon": "Arboretum.png",
+               "glyph": "fa-tree"
+               },
+               {
+               "name": "Good Life Garden",
+               "link": "http://www.goodlifegarden.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.532633",
+               "lng": "-121.751076",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "Haagen-Dazs Honey Bee Haven",
+               "link": "http://beebiology.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.536768",
+               "lng": "-121.787921",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "Horticulture Innovation Lab Demonstration Center",
+               "link": "http://horticulture.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.537050",
+               "lng": "-121.747238",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "Lake Spafford",
+               "link": "",
+               "abbr": "",
+               "lat": "38.537236",
+               "lng": "-121.748334",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "Margrit Mondavi Art Garden",
+               "link": "",
+               "abbr": "",
+               "lat": "38.533781",
+               "lng": "-121.747181",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "Plant & Environmental Science Salad Bowl Garden",
+               "link": "http://saladbowlgarden.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.543239",
+               "lng": "-121.751736",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "Quad",
+               "link": "",
+               "abbr": "",
+               "lat": "38.54109",
+               "lng": "-121.749319",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "Student Farm Ecological Garden",
+               "link": "http://studentfarm.ucdavis.edu/internships/ecological-garden",
+               "abbr": "",
+               "lat": "38.538905",
+               "lng": "-121.764355",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "Student Farm Market Garden",
+               "link": "http://studentfarm.ucdavis.edu/market-garden",
+               "abbr": "",
+               "lat": "38.540660",
+               "lng": "-121.764792",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "UC Davis West Village - Village Square",
+               "link": "http://westvillage.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.541446",
+               "lng": "-121.771116",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "Vanderhoef Quad",
+               "link": "",
+               "abbr": "",
+               "lat": "38.534465",
+               "lng": "-121.747969",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "Village Square",
+               "link": "http://westvillage.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.541446",
+               "lng": "-121.771116",
+               "icon": "Sun.png",
+               "glyph": "fa-sun-o"
+               },
+               {
+               "name": "Bohart Museum of Entomology",
+               "link": "http://bohart.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.535258",
+               "lng": "-121.752596",
+               "icon": "Museum.png",
+               "glyph": "fa-university"
+               },
+               {
+               "name": "Botanical Conservatory",
+               "link": "http://greenhouse.ucdavis.edu/conservatory/",
+               "abbr": "",
+               "lat": "38.541325",
+               "lng": "-121.754827",
+               "icon": "Museum.png",
+               "glyph": "fa-university"
+               },
+               {
+               "name": "California Raptor Museum",
+               "link": "http://www.vetmed.ucdavis.edu/calraptor/",
+               "abbr": "",
+               "lat": "38.518028",
+               "lng": "-121.752324",
+               "icon": "Museum.png",
+               "glyph": "fa-university"
+               },
+               {
+               "name": "Center for Plant Diversity",
+               "link": "http://herbarium.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.539815",
+               "lng": "-121.754787",
+               "icon": "Museum.png",
+               "glyph": "fa-university"
+               },
+               {
+               "name": "C.N. Gorman Museum",
+               "link": "",
+               "abbr": "",
+               "lat": "38.540449",
+               "lng": "-121.751068",
+               "icon": "Museum.png",
+               "glyph": "fa-university"
+               },
+               {
+               "name": "Design Museum",
+               "link": "http://designmuseum.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.543412",
+               "lng": "-121.753703",
+               "icon": "Museum.png",
+               "glyph": "fa-university"
+               },
+               {
+               "name": "The Gallery at the Memorial Union",
+               "link": "",
+               "abbr": "",
+               "lat": "38.542280",
+               "lng": "-121.749171",
+               "icon": "Museum.png",
+               "glyph": "fa-university"
+               },
+               {
+               "name": "Museum of Wildlife and Fish Biology (MWFB)",
+               "link": "http://mwfb.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.535240",
+               "lng": "-121.752454",
+               "icon": "Museum.png",
+               "glyph": "fa-university"
+               },
+               {
+               "name": "Nelson Gallery",
+               "link": "http://nelsongallery.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.537545",
+               "lng": "-121.746829",
+               "icon": "Museum.png",
+               "glyph": "fa-university"
+               },
+               {
+               "name": "Freeborn Hall",
+               "link": "http://freebornhall.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.542600",
+               "lng": "-121.750217",
+               "icon": "Arts.png",
+               "glyph": "fa-users"
+               },
+               {
+               "name": "Main Theatre",
+               "link": "http://theatredance.ucdavis.edu/aboutus/facilities_main.aspx",
+               "abbr": "",
+               "lat": "38.538952",
+               "lng": "-121.747863",
+               "icon": "Arts.png",
+               "glyph": "fa-users"
+               },
+               {
+               "name": "Mondavi Center for the Performing Arts",
+               "link": "http://mondavicenter.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.534376",
+               "lng": "-121.749170",
+               "icon": "Arts.png",
+               "glyph": "fa-users"
+               },
+               {
+               "name": "Wyatt Pavilion Theatre",
+               "link": "http://theatredance.ucdavis.edu/aboutus/facilities_wyatt.aspx",
+               "abbr": "",
+               "lat": "38.538115",
+               "lng": "-121.746700",
+               "icon": "Arts.png",
+               "glyph": "fa-users"
+               },
+               {
+               "name": "Brooks Road Trailhead",
+               "link": "http://putahcreek.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.5238",
+               "lng": "-121.782",
+               "icon": "Trailhead.png",
+               "glyph": "fa-map-o"
+               },
+               {
+               "name": "Levee Road Trailhead",
+               "link": "http://putahcreek.ucdavis.edu/",
+               "abbr": "",
+               "lat": " 38.524513",
+               "lng": "-121.788893",
+               "icon": "Trailhead.png",
+               "glyph": "fa-map-o"
+               },
+               {
+               "name": "Old Davis Road Trailhead",
+               "link": "http://putahcreek.ucdavis.edu/",
+               "abbr": "",
+               "lat": " 38.517633",
+               "lng": "-121.756375",
+               "icon": "Trailhead.png",
+               "glyph": "fa-map-o"
+               },
+               {
+               "name": "Pedrick Road Trailhead",
+               "link": "http://putahcreek.ucdavis.edu/",
+               "abbr": "",
+               "lat": "38.5274",
+               "lng": "-121.805",
+               "icon": "Trailhead.png",
+               "glyph": "fa-map-o"
+               }
+               ]
+ },
+ {
+ "name": "Recreation",
+ "locations": [
+               {
+               "name": "Aggie Field Hockey Facility",
+               "link": "http://www.ucdavisaggies.com/facilities/ucda-facilities.html",
+               "abbr": "",
+               "lat": "38.534980",
+               "lng": "-121.759504",
+               "icon": "Sports.png",
+               "glyph": "fa-trophy"
+               },
+               {
+               "name": "Aggie Soccer Field",
+               "link": "http://www.ucdavisaggies.com/facilities/ucda-facilities.html",
+               "abbr": "",
+               "lat": "38.541671",
+               "lng": "-121.756584",
+               "icon": "Sports.png",
+               "glyph": "fa-trophy"
+               },
+               {
+               "name": "Aggie Stadium",
+               "link": "http://www.ucdavis.edu/spotlight/0807/map.html",
+               "abbr": "",
+               "lat": "38.536553",
+               "lng": "-121.762769",
+               "icon": "Sports.png",
+               "glyph": "fa-trophy"
+               },
+               {
+               "name": "Dobbins Baseball Complex",
+               "link": "http://www.ucdavisaggies.com/facilities/ucda-facilities.html",
+               "abbr": "",
+               "lat": "38.541559",
+               "lng": "-121.757852",
+               "icon": "Sports.png",
+               "glyph": "fa-trophy"
+               },
+               {
+               "name": "La Rue field",
+               "link": "http://www.ucdavisaggies.com/facilities/ucda-facilities.html",
+               "abbr": "",
+               "lat": "38.545642",
+               "lng": "-121.759935",
+               "icon": "Sports.png",
+               "glyph": "fa-trophy"
+               },
+               {
+               "name": "Marya Welch Tennis Center",
+               "link": "http://www.ucdavisaggies.com/facilities/ucda-facilities.html",
+               "abbr": "",
+               "lat": "38.544398",
+               "lng": "-121.751479",
+               "icon": "Sports.png",
+               "glyph": "fa-trophy"
+               },
+               {
+               "name": "Pavilion at the ARC",
+               "link": "http://www.ucdavisaggies.com/facilities/ucda-facilities.html",
+               "abbr": "",
+               "lat": "38.541850",
+               "lng": "-121.759607",
+               "icon": "Sports.png",
+               "glyph": "fa-trophy"
+               },
+               {
+               "name": "Schaal Aquatic Center",
+               "link": "http://www.ucdavisaggies.com/facilities/ucda-facilities.html",
+               "abbr": "",
+               "lat": "38.534980",
+               "lng": "-121.761702",
+               "icon": "Sports.png",
+               "glyph": "fa-trophy"
+               },
+               {
+               "name": "Toomey Field",
+               "link": "http://www.ucdavisaggies.com/facilities/ucda-facilities.html",
+               "abbr": "",
+               "lat": "38.545215",
+               "lng": "-121.748234",
+               "icon": "Sports.png",
+               "glyph": "fa-trophy"
+               },
+               {
+               "name": "A Street Field",
+               "link": "",
+               "abbr": "",
+               "lat": "38.543977",
+               "lng": "-121.747667",
+               "icon": "Field.png",
+               "glyph": "fa-futbol-o"
+               },
+               {
+               "name": "Dairy Road Field",
+               "link": "",
+               "abbr": "",
+               "lat": "38.538490",
+               "lng": "-121.759797",
+               "icon": "Field.png",
+               "glyph": "fa-futbol-o"
+               },
+               {
+               "name": "East Field",
+               "link": "",
+               "abbr": "",
+               "lat": "38.541793",
+               "lng": "-121.747145",
+               "icon": "Field.png",
+               "glyph": "fa-futbol-o"
+               },
+               {
+               "name": "Howard Field",
+               "link": "",
+               "abbr": "",
+               "lat": "38.545374",
+               "lng": "-121.749657",
+               "icon": "Field.png",
+               "glyph": "fa-futbol-o"
+               },
+               {
+               "name": "Hutchison Field",
+               "link": "",
+               "abbr": "",
+               "lat": "38.540090",
+               "lng": "-121.759725",
+               "icon": "Field.png",
+               "glyph": "fa-futbol-o"
+               },
+               {
+               "name": "Russell Field",
+               "link": "",
+               "abbr": "",
+               "lat": "38.545369",
+               "lng": "-121.751860",
+               "icon": "Field.png",
+               "glyph": "fa-futbol-o"
+               },
+               {
+               "name": "Solano Field",
+               "link": "",
+               "abbr": "",
+               "lat": "38.536973",
+               "lng": "-121.746976",
+               "icon": "Field.png",
+               "glyph": "fa-futbol-o"
+               },
+               {
+               "name": "Rec Pool",
+               "link": "https://cru.ucdavis.edu/content.cfm?contentID=47&redirectedFrom=content&redirectedFromID=158&CFID=3593771&CFTOKEN=39926378",
+               "abbr": "",
+               "lat": "38.539760",
+               "lng": "-121.761684",
+               "icon": "Sports.png",
+               "glyph": "fa-trophy"
+               }
+               ]
+ },
+ {
+ "name": "Buildings",
+ "locations": [
+               {
+               "name": "Walter A. Buehler Alumni Center",
+               "link": "",
+               "abbr": "",
+               "lat": "38.535173",
+               "lng": "-121.748243",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Robert Mondavi Institute - Sensory",
+               "link": "",
+               "abbr": "",
+               "lat": "38.532795",
+               "lng": "-121.751673",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hutchison Child Development Center",
+               "link": "",
+               "abbr": "CH DEV CNTR",
+               "lat": "38.540382",
+               "lng": "-121.762641",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Harry H. Laidlaw Jr. Honey Bee Research Facility",
+               "link": "",
+               "abbr": "",
+               "lat": "38.536704",
+               "lng": "-121.789056",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Arboretum Teaching Nursery",
+               "link": "",
+               "abbr": "ARBORTM NURS",
+               "lat": "38.530554",
+               "lng": "-121.761726",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hyatt Place",
+               "link": "",
+               "abbr": "",
+               "lat": " 38.535413",
+               "lng": "-121.746331",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Center for Equine Health",
+               "link": "",
+               "abbr": "",
+               "lat": "38.52171",
+               "lng": "-121.752231",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Silo South",
+               "link": "",
+               "abbr": "SILO SOUTH",
+               "lat": "38.538198",
+               "lng": "-121.753034",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Wright Hall",
+               "link": "",
+               "abbr": "WRIGHT",
+               "lat": "38.538748",
+               "lng": "-121.747897",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Nelson Hall (University Club)",
+               "link": "",
+               "abbr": "UCLUB",
+               "lat": "38.537552",
+               "lng": "-121.746798",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Everson Hall",
+               "link": "",
+               "abbr": "EVERSN",
+               "lat": "38.538494",
+               "lng": "-121.750235",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 118",
+               "link": "",
+               "abbr": "Temporary Building 118",
+               "lat": "38.540618",
+               "lng": "-121.744477",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 119",
+               "link": "",
+               "abbr": "Temporary Building 119",
+               "lat": "38.540648",
+               "lng": "-121.744332",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "University Extension Building",
+               "link": "",
+               "abbr": "UNIV EXT BLD",
+               "lat": "38.5389",
+               "lng": "-121.732667",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Animal Husbandry Sheep",
+               "link": "",
+               "abbr": "ANSHP",
+               "lat": "38.529431",
+               "lng": "-121.777431",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "University Services Building",
+               "link": "",
+               "abbr": "UNIV SVCS BL",
+               "lat": "38.538946",
+               "lng": "-121.732082",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Medical Sciences I B (Carlson Health Sciences Library)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.5335",
+               "lng": "-121.763491",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Kerr Hall",
+               "link": "",
+               "abbr": "KERR",
+               "lat": "38.541561",
+               "lng": "-121.751996",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Academic Surge",
+               "link": "",
+               "abbr": "ACADSR",
+               "lat": "38.535269",
+               "lng": "-121.753024",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Storer Hall",
+               "link": "",
+               "abbr": "STORER",
+               "lat": "38.540827",
+               "lng": "-121.754596",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Chemistry Annex",
+               "link": "",
+               "abbr": "CHEM ANX",
+               "lat": "38.537774",
+               "lng": "-121.750481",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Geotechnical Centrifuge",
+               "link": "",
+               "abbr": "GEOTECH CENT",
+               "lat": "38.52662",
+               "lng": "-121.784623",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Rifle Range",
+               "link": "",
+               "abbr": "",
+               "lat": "38.536058",
+               "lng": "-121.750788",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Sproul Hall",
+               "link": "",
+               "abbr": "SPROUL",
+               "lat": "38.539992",
+               "lng": "-121.747023",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Davis 501 Oak Ave",
+               "link": "",
+               "abbr": "",
+               "lat": "38.546576",
+               "lng": "-121.753112",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Kleiber Hall",
+               "link": "",
+               "abbr": "KLEIBR",
+               "lat": "38.540801",
+               "lng": "-121.755232",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 194",
+               "link": "",
+               "abbr": "Temporary Building 194",
+               "lat": "38.538238",
+               "lng": "-121.756991",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Animal Resources Service Headquarters",
+               "link": "",
+               "abbr": "ARS HDQTRS",
+               "lat": "38.526314",
+               "lng": "-121.756633",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Pritchard VMTH",
+               "link": "",
+               "abbr": "PRITCHARD",
+               "lat": "38.532083",
+               "lng": "-121.764261",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Willow Cottage",
+               "link": "",
+               "abbr": "WILLOW",
+               "lat": "38.533953",
+               "lng": "-121.753574",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Physics Building",
+               "link": "",
+               "abbr": "PHYSIC",
+               "lat": "38.536598",
+               "lng": "-121.751303",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Robbins Hall Annex",
+               "link": "",
+               "abbr": "ROBBNS ANX",
+               "lat": "38.541024",
+               "lng": "-121.752269",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Human Resources Administration Building",
+               "link": "",
+               "abbr": "HMN RES ADMN",
+               "lat": "38.54354",
+               "lng": "-121.7625",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 16",
+               "link": "",
+               "abbr": "",
+               "lat": "38.543305",
+               "lng": "-121.755787",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Parsons Seed Certification Center",
+               "link": "",
+               "abbr": "PARSON",
+               "lat": "38.543445",
+               "lng": "-121.751069",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Putah Creek Lodge",
+               "link": "",
+               "abbr": "PUTAH CRK LG",
+               "lat": "38.531317",
+               "lng": "-121.758731",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hopkins Svcs Complex Receiving",
+               "link": "",
+               "abbr": "HSC RCVG",
+               "lat": "38.532718",
+               "lng": "-121.791922",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Roessler Hall",
+               "link": "",
+               "abbr": "RESSLR",
+               "lat": "38.537037",
+               "lng": "-121.751798",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Bainer Hall",
+               "link": "",
+               "abbr": "BAINER",
+               "lat": "38.537197",
+               "lng": "-121.753252",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Advanced Materials Research Laboratory",
+               "link": "",
+               "abbr": "ADV MAT RSLB",
+               "lat": "38.532286",
+               "lng": "-121.758484",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Pavilion Parking Structure",
+               "link": "",
+               "abbr": "",
+               "lat": "38.539707",
+               "lng": "-121.758125",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Center for Comparative Medicine",
+               "link": "",
+               "abbr": "CTR COMP MED",
+               "lat": "38.539256",
+               "lng": "-121.805071",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Physical Sciences & Engineering Library",
+               "link": "",
+               "abbr": "PHY SCI LIB",
+               "lat": "38.537312",
+               "lng": "-121.75084",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Aquatic Biology & Environmental Science Bldg",
+               "link": "",
+               "abbr": "AQUATIC BIO",
+               "lat": "38.529221",
+               "lng": "-121.782744",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Vet Med Laboratory Facility Large Animal Holding",
+               "link": "",
+               "abbr": "VM LF LG AN",
+               "lat": "38.531094",
+               "lng": "-121.766637",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Aggie Stadium East",
+               "link": "",
+               "abbr": "AG STAD E",
+               "lat": "38.537266",
+               "lng": "-121.762089",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Conference Center & Welcome Center",
+               "link": "",
+               "abbr": "",
+               "lat": "38.534507",
+               "lng": "-121.746966",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 188",
+               "link": "",
+               "abbr": "Temporary Building 188",
+               "lat": "38.543084",
+               "lng": "-121.755007",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Swine Teaching and Research Facility",
+               "link": "",
+               "abbr": "SWINE FAC",
+               "lat": "38.535665",
+               "lng": "-121.788359",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Ann E. Pitzer Center",
+               "link": "",
+               "abbr": "",
+               "lat": "38.539477",
+               "lng": "-121.746901",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Schalm Hall",
+               "link": "",
+               "abbr": "SCHALM",
+               "lat": "38.533504",
+               "lng": "-121.763894",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Watershed Science Facility",
+               "link": "",
+               "abbr": "WATERSHED SC",
+               "lat": "38.534788",
+               "lng": "-121.752625",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Aquatic Weed Laboratory",
+               "link": "",
+               "abbr": "AQ WEED LAB",
+               "lat": "38.524462",
+               "lng": "-121.784803",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Thurman Laboratory",
+               "link": "",
+               "abbr": "THURMAN",
+               "lat": "38.53279",
+               "lng": "-121.766449",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "East House",
+               "link": "",
+               "abbr": "",
+               "lat": "38.541068",
+               "lng": "-121.744547",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Ghausi Hall",
+               "link": "",
+               "abbr": "GHAUSI",
+               "lat": "38.536124",
+               "lng": "-121.753522",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Fleet Services Central Garage Campus",
+               "link": "",
+               "abbr": "CENGAR",
+               "lat": "38.533535",
+               "lng": "-121.759242",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Tupper Hall",
+               "link": "",
+               "abbr": "TUPPER",
+               "lat": "38.533978",
+               "lng": "-121.764782",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Sciences Lab Building",
+               "link": "",
+               "abbr": "SCILAB",
+               "lat": "38.539815",
+               "lng": "-121.754787",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Memorial Union",
+               "link": "",
+               "abbr": "MU",
+               "lat": "38.542334",
+               "lng": "-121.749515",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Advanced Transportation Infrastructure Research Center",
+               "link": "",
+               "abbr": "ATIRC",
+               "lat": "38.534595",
+               "lng": "-121.79433",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Toomey Weight Room",
+               "link": "",
+               "abbr": "TOOMEY WT RM",
+               "lat": "38.544321",
+               "lng": "-121.748437",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Dutton Hall",
+               "link": "",
+               "abbr": "DUTTON HALL",
+               "lat": "38.54157",
+               "lng": "-121.747704",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Briggs Hall",
+               "link": "",
+               "abbr": "BRIGGS",
+               "lat": "38.540173",
+               "lng": "-121.756137",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Bowley Plant Science Teaching Facility",
+               "link": "",
+               "abbr": "BOWLEY",
+               "lat": "38.538474",
+               "lng": "-121.763932",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Aggie Surplus (Bargain Barn) & Custodial",
+               "link": "",
+               "abbr": "",
+               "lat": "38.533883",
+               "lng": "-121.757977",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Wyatt Deck",
+               "link": "",
+               "abbr": "",
+               "lat": "38.538198",
+               "lng": "-121.747097",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 189",
+               "link": "",
+               "abbr": "Temporary Building 189",
+               "lat": "38.543048",
+               "lng": "-121.755112",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Chancellor's Residence",
+               "link": "",
+               "abbr": "CHANCLR RES",
+               "lat": "38.547141",
+               "lng": "-121.749891",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hoagland Hall",
+               "link": "",
+               "abbr": "HOAGLD",
+               "lat": "38.542039",
+               "lng": "-121.754525",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Art Building",
+               "link": "",
+               "abbr": "ART",
+               "lat": "38.538964",
+               "lng": "-121.748536",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Fire & Police Building",
+               "link": "",
+               "abbr": "FIRE&POLICE",
+               "lat": "38.540436",
+               "lng": "-121.757671",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Sciences Lecture Hall",
+               "link": "",
+               "abbr": "",
+               "lat": "38.539455",
+               "lng": "-121.755868",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Mondavi Center for the Performing Arts",
+               "link": "",
+               "abbr": "",
+               "lat": "38.534401",
+               "lng": "-121.749163",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Elderberry Cottage",
+               "link": "",
+               "abbr": "ELDERBERRY",
+               "lat": "38.534062",
+               "lng": "-121.752815",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Student Housing",
+               "link": "",
+               "abbr": "",
+               "lat": "38.543137",
+               "lng": "-121.756113",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Arboretum Headquarters (Valley Oak Cottage)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.533929",
+               "lng": "-121.753233",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Haring Hall",
+               "link": "",
+               "abbr": "HARING",
+               "lat": "38.539814",
+               "lng": "-121.753498",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "The Grove (Surge III)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.538479",
+               "lng": "-121.755387",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Environmental Services Facility Headquarters",
+               "link": "",
+               "abbr": "ENV SRV HQTR",
+               "lat": "38.532249",
+               "lng": "-121.777037",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Veihmeyer Hall",
+               "link": "",
+               "abbr": "VEIMYR",
+               "lat": "38.542947",
+               "lng": "-121.752287",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 120",
+               "link": "",
+               "abbr": "Temporary Building 120",
+               "lat": "38.540521",
+               "lng": "-121.744248",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "DANR Service Building",
+               "link": "",
+               "abbr": "DANR SRV BLD",
+               "lat": "38.537604",
+               "lng": "-121.791059",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Equestrian Center Covered Arena",
+               "link": "",
+               "abbr": "EQUES C ARNA",
+               "lat": "38.527353",
+               "lng": "-121.766972",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Environmental Horticulture",
+               "link": "",
+               "abbr": "ENHORT",
+               "lat": "38.536057",
+               "lng": "-121.746600",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "FPS Facility (Main Lab & Office)",
+               "link": "",
+               "abbr": "FPS FAC",
+               "lat": "38.534883",
+               "lng": "-121.790873",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "International House",
+               "link": "",
+               "abbr": "",
+               "lat": "38.546593",
+               "lng": "-121.750481",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Vet Med Equine Athletic Performance Lab",
+               "link": "",
+               "abbr": "VM EQUINE LB",
+               "lat": "38.531082",
+               "lng": "-121.765885",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Walnut Cottage",
+               "link": "",
+               "abbr": "WALNUT",
+               "lat": "38.534009",
+               "lng": "-121.753011",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Regan Central Commons",
+               "link": "",
+               "abbr": "REGAN CENT C",
+               "lat": "38.543964",
+               "lng": "-121.756219",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Earth and Physical Sciences Building",
+               "link": "",
+               "abbr": "EPHSCI",
+               "lat": "38.535159",
+               "lng": "-121.751604",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Wellman Hall",
+               "link": "",
+               "abbr": "WELLMN",
+               "lat": "38.541337",
+               "lng": "-121.751393",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Pomology Field House C",
+               "link": "",
+               "abbr": "PFH C",
+               "lat": "38.536257",
+               "lng": "-121.791392",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Chemistry",
+               "link": "",
+               "abbr": "CHEM",
+               "lat": "38.538232",
+               "lng": "-121.751178",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Center for Vectorborne Diseases, Laboratory",
+               "link": "",
+               "abbr": "",
+               "lat": "38.520249",
+               "lng": "-121.755497",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Art Studio-Graduate Building",
+               "link": "",
+               "abbr": "",
+               "lat": "38.538101",
+               "lng": "-121.748947",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 124",
+               "link": "",
+               "abbr": "Temporary Building 124",
+               "lat": "38.540397",
+               "lng": "-121.744726",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 009",
+               "link": "",
+               "abbr": "",
+               "lat": "38.539826",
+               "lng": "-121.746114",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Quad Parking Structure",
+               "link": "",
+               "abbr": "",
+               "lat": " 38.544470",
+               "lng": "-121.749475",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 168",
+               "link": "",
+               "abbr": "Temporary Building 168",
+               "lat": "38.537684",
+               "lng": "-121.756142",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Vet Med 3A",
+               "link": "",
+               "abbr": "VET MED 3A",
+               "lat": "38.532651",
+               "lng": "-121.765375",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Medical Sciences I C",
+               "link": "",
+               "abbr": "MED SCI I C",
+               "lat": "38.534318",
+               "lng": "-121.763734",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Pavilion at the ARC",
+               "link": "",
+               "abbr": "ARCPAV",
+               "lat": "38.541812",
+               "lng": "-121.759624",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Mrak Hall",
+               "link": "",
+               "abbr": "MRAK",
+               "lat": "38.537044",
+               "lng": "-121.749164",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Aggie Stadium West",
+               "link": "",
+               "abbr": "AG STAD W",
+               "lat": "38.536555",
+               "lng": "-121.76359",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Segundo Dining Commons",
+               "link": "",
+               "abbr": "SEG DINE COM",
+               "lat": "38.543936",
+               "lng": "-121.758088",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Enology Laboratory Building",
+               "link": "",
+               "abbr": "ENOL",
+               "lat": "38.542187",
+               "lng": "-121.75233",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "University House & Annex",
+               "link": "",
+               "abbr": "UNIV HOUSE",
+               "lat": "38.541034",
+               "lng": "-121.747433",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Human and Community Development Administration",
+               "link": "",
+               "abbr": "HCD ADMIN",
+               "lat": "38.540936",
+               "lng": "-121.744853",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Mann Laboratory",
+               "link": "",
+               "abbr": "MANN",
+               "lat": "38.541521",
+               "lng": "-121.755689",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Facilities Structural Trailer",
+               "link": "",
+               "abbr": "FAC STRC TR",
+               "lat": "38.535469",
+               "lng": "-121.750298",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Schaal Aquatic Center",
+               "link": "",
+               "abbr": "S",
+               "lat": "38.534998",
+               "lng": "-121.761934",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Unitrans Maintenance Facility",
+               "link": "",
+               "abbr": "UNITRANS MNT",
+               "lat": "38.532336",
+               "lng": "-121.759819",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Music Annex",
+               "link": "",
+               "abbr": "",
+               "lat": "38.538197",
+               "lng": "-121.748481",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Neurosciences Building",
+               "link": "",
+               "abbr": "NEUBLG",
+               "lat": "38.539053",
+               "lng": "-121.734647",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Music Building",
+               "link": "",
+               "abbr": "MUSIC",
+               "lat": "38.539163",
+               "lng": "-121.747428",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Jackson Sustainable Winery",
+               "link": "",
+               "abbr": "",
+               "lat": "38.531419",
+               "lng": "-121.750952",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Western Center for Agricultural Equipment",
+               "link": "",
+               "abbr": "WCAE",
+               "lat": "38.538593",
+               "lng": "-121.77234",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Eichhorn Family House ",
+               "link": "",
+               "abbr": "",
+               "lat": "38.540384",
+               "lng": "-121.744092",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 123",
+               "link": "",
+               "abbr": "Temporary Building 123",
+               "lat": "38.540411",
+               "lng": "-121.744576",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Utilities Headquarters",
+               "link": "",
+               "abbr": "UTILITIES HQ",
+               "lat": "38.533817",
+               "lng": "-121.759927",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Dairy",
+               "link": "",
+               "abbr": "DAIRY",
+               "lat": "38.537397",
+               "lng": "-121.759261",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Cottonwood Cottage (Temporary Classroom 30)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.534247",
+               "lng": "-121.752613",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Water Science & Engineering Hydraulic L2",
+               "link": "",
+               "abbr": "WS&E HYD L2",
+               "lat": "38.526182",
+               "lng": "-121.78398",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Animal Sciences Teaching Facility 2",
+               "link": "",
+               "abbr": "ASTF 2",
+               "lat": "38.537619",
+               "lng": "-121.760131",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "California Raptor Museum",
+               "link": "",
+               "abbr": "CA RPTR MUSM",
+               "lat": "38.518019",
+               "lng": "-121.752345",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Animal Sciences Teaching Facility 1",
+               "link": "",
+               "abbr": "ASTF 1",
+               "lat": "38.537502",
+               "lng": "-121.760505",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Plant Reproductive Biology Facility",
+               "link": "",
+               "abbr": "PLANT REPROD",
+               "lat": "38.538657",
+               "lng": "-121.763313",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Poultry Headquarters",
+               "link": "",
+               "abbr": "PHEADQ",
+               "lat": "38.530375",
+               "lng": "-121.790895",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Genome & Biomedical Sciences Facility",
+               "link": "",
+               "abbr": "GENBIO",
+               "lat": "38.535119",
+               "lng": "-121.765185",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Tercero Dining Commons",
+               "link": "",
+               "abbr": "",
+               "lat": "38.536192",
+               "lng": "-121.757192",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Manetti Shrem Museum",
+               "link": "",
+               "abbr": "",
+               "lat": "38.533372",
+               "lng": "-121.747802",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 167",
+               "link": "",
+               "abbr": "Temporary Building 167",
+               "lat": "38.537897",
+               "lng": "-121.756171",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Cowell Building",
+               "link": "",
+               "abbr": "COWELL",
+               "lat": "38.544399",
+               "lng": "-121.754",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Activities & Recreation Center (ARC)",
+               "link": "",
+               "abbr": "ARC",
+               "lat": "38.54291",
+               "lng": "-121.759651",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Voorhies Hall",
+               "link": "",
+               "abbr": "VRHIES",
+               "lat": "38.541216",
+               "lng": "-121.746955",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 116",
+               "link": "",
+               "abbr": "Temporary Building 116",
+               "lat": "38.540519",
+               "lng": "-121.744796",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Germplasm Laboratory",
+               "link": "",
+               "abbr": "GRMPLSM LAB",
+               "lat": "38.535659",
+               "lng": "-121.792509",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Scrub Oak Hall (Auditorium)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.536654",
+               "lng": "-121.756698",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Art Annex",
+               "link": "",
+               "abbr": "",
+               "lat": "38.538392",
+               "lng": "-121.748656",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Heitman Staff Learning Center",
+               "link": "",
+               "abbr": "HUB HEIT LC",
+               "lat": "38.537776",
+               "lng": "-121.752749",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Viticulture Relocation C",
+               "link": "",
+               "abbr": "VITI RELO C",
+               "lat": "38.536051",
+               "lng": "-121.792223",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Facilities Services",
+               "link": "",
+               "abbr": "FAC SERVICES",
+               "lat": "38.535828",
+               "lng": "-121.751469",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "The Barn",
+               "link": "",
+               "abbr": "THE BARN",
+               "lat": "38.537701",
+               "lng": "-121.754572",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Student Community Center",
+               "link": "",
+               "abbr": "SCC",
+               "lat": "38.539527",
+               "lng": "-121.751609",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Agriculture Field Station",
+               "link": "",
+               "abbr": "AG FIELD STA",
+               "lat": "38.542632",
+               "lng": "-121.76441",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hopkins Svcs Complex Auxiliary",
+               "link": "",
+               "abbr": "HSC AUX",
+               "lat": "38.533383",
+               "lng": "-121.792012",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Robert Mondavi Institute - North",
+               "link": "",
+               "abbr": "",
+               "lat": "38.533072",
+               "lng": "-121.750932",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Freeborn Hall",
+               "link": "",
+               "abbr": "FRBNHL",
+               "lat": "38.542584",
+               "lng": "-121.750214",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Animal Husbandry Feed Scales",
+               "link": "",
+               "abbr": "AH FEED SCA",
+               "lat": "38.534477",
+               "lng": "-121.789552",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Robbins Hall",
+               "link": "",
+               "abbr": "ROBBNS",
+               "lat": "38.540558",
+               "lng": "-121.751837",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Reprographics",
+               "link": "",
+               "abbr": "",
+               "lat": "38.549508",
+               "lng": "-121.703995",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Gateway Parking Structure",
+               "link": "",
+               "abbr": "",
+               "lat": "38.533229",
+               "lng": "-121.749137",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "School of Education Building",
+               "link": "",
+               "abbr": "SOEB",
+               "lat": "38.540516",
+               "lng": "-121.746933",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 117",
+               "link": "",
+               "abbr": "Temporary Building 117",
+               "lat": "38.540589",
+               "lng": "-121.744641",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Transportation and Parking Services",
+               "link": "",
+               "abbr": "TAPS",
+               "lat": "38.540803",
+               "lng": "-121.75858",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Veterinary Genetics Lab",
+               "link": "",
+               "abbr": "",
+               "lat": "38.525208",
+               "lng": "-121.755799",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hickey Gym",
+               "link": "",
+               "abbr": "H",
+               "lat": "38.543801",
+               "lng": "-121.748684",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "King Hall",
+               "link": "",
+               "abbr": "KING",
+               "lat": "38.535978",
+               "lng": "-121.74973",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Vet Med 3B",
+               "link": "",
+               "abbr": "",
+               "lat": "38.532713",
+               "lng": "-121.762177",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Olson Hall",
+               "link": "",
+               "abbr": "OLSON",
+               "lat": "38.54001",
+               "lng": "-121.747623",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Student Health & Wellness Center",
+               "link": "",
+               "abbr": "HLTH WELL",
+               "lat": "38.542689",
+               "lng": "-121.761542",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Conference and Event Services",
+               "link": "",
+               "abbr": "",
+               "lat": "38.54152",
+               "lng": "-121.746185",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 191",
+               "link": "",
+               "abbr": "Temporary Building 191",
+               "lat": "38.537891",
+               "lng": "-121.756547",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Study Abroad",
+               "link": "",
+               "abbr": "",
+               "lat": "38.543782",
+               "lng": "-121.746695",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Contained Research Facility",
+               "link": "",
+               "abbr": "CONTAIND RES",
+               "lat": "38.53414",
+               "lng": "-121.791593",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hart Hall",
+               "link": "",
+               "abbr": "HART",
+               "lat": "38.54063",
+               "lng": "-121.75085",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Surge II",
+               "link": "",
+               "abbr": "",
+               "lat": "38.538683",
+               "lng": "-121.754737",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Maddy Lab",
+               "link": "",
+               "abbr": "MADDY LAB",
+               "lat": "38.533352",
+               "lng": "-121.766677",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Annual Fund Trailer",
+               "link": "",
+               "abbr": "ANNL FUND TR",
+               "lat": "38.535873",
+               "lng": "-121.754397",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Giedt Hall",
+               "link": "",
+               "abbr": "GIEDT",
+               "lat": "38.537721",
+               "lng": "-121.755458",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Aquaculture Facility Hatchery",
+               "link": "",
+               "abbr": "ACF HATCH",
+               "lat": "38.527427",
+               "lng": "-121.810283",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Food Science & Technology",
+               "link": "",
+               "abbr": "FOOD SC&TECH",
+               "lat": "38.542873",
+               "lng": "-121.754929",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Center for Companion Animal Health",
+               "link": "",
+               "abbr": "CTR COMP ANM",
+               "lat": "38.53099",
+               "lng": "-121.763219",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Asmundson Hall",
+               "link": "",
+               "abbr": "ASMDSN",
+               "lat": "38.541846",
+               "lng": "-121.753228",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "North Hall",
+               "link": "",
+               "abbr": "NORTH",
+               "lat": "38.541793",
+               "lng": "-121.748273",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Animal Husbandry Beef Barn",
+               "link": "",
+               "abbr": "AH BEEF B",
+               "lat": "38.5312",
+               "lng": "-121.77031",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Aggie Stadium North",
+               "link": "",
+               "abbr": "AG STAD N",
+               "lat": "38.537479",
+               "lng": "-121.762459",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "West House",
+               "link": "",
+               "abbr": "",
+               "lat": "38.540936",
+               "lng": "-121.744852",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Plant & Environmental Sciences",
+               "link": "",
+               "abbr": "PLESC",
+               "lat": "38.543427",
+               "lng": "-121.752028",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Design & Construction Management (DCM)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.551548",
+               "lng": "-121.711945",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Agriculture Service Office",
+               "link": "",
+               "abbr": "AG SERV OFF",
+               "lat": "38.531096",
+               "lng": "-121.776179",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Veterinary Medicine 2",
+               "link": "",
+               "abbr": "VET MED 2",
+               "lat": "38.531323",
+               "lng": "-121.76371",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hangar Office",
+               "link": "",
+               "abbr": "HANGOF",
+               "lat": "38.532716",
+               "lng": "-121.788833",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Civil & Industrial Services",
+               "link": "",
+               "abbr": "",
+               "lat": "38.531096",
+               "lng": "-121.776179",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Center for Neuroscience",
+               "link": "",
+               "abbr": "CTR NEUROSCI",
+               "lat": "38.538677",
+               "lng": "-121.733661",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "South Hall",
+               "link": "",
+               "abbr": "SOUTH",
+               "lat": "38.541188",
+               "lng": "-121.748093",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Gallagher Hall",
+               "link": "",
+               "abbr": "GALGHR",
+               "lat": "38.534808",
+               "lng": "-121.747233",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Medical Sciences I D",
+               "link": "",
+               "abbr": "MED SCI I D",
+               "lat": "38.533587",
+               "lng": "-121.765704",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hoagland Annex",
+               "link": "",
+               "abbr": "HOAGLD ANX",
+               "lat": "38.541692",
+               "lng": "-121.75515",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Surge IV (TB 200,TB 201,TB 202,TB 203)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.53857",
+               "lng": "-121.754024",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Bike Barn",
+               "link": "",
+               "abbr": "",
+               "lat": "38.538646",
+               "lng": "-121.752223",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 170",
+               "link": "",
+               "abbr": "Temporary Building 170",
+               "lat": "38.537585",
+               "lng": "-121.756439",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 171",
+               "link": "",
+               "abbr": "Temporary Building 171",
+               "lat": "38.537586",
+               "lng": "-121.756588",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 172",
+               "link": "",
+               "abbr": "Temporary Building 172",
+               "lat": "38.537748",
+               "lng": "-121.756549",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Wyatt Pavilion",
+               "link": "",
+               "abbr": "WYATT",
+               "lat": "38.53812",
+               "lng": "-121.746695",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 175",
+               "link": "",
+               "abbr": "Temporary Building 175",
+               "lat": "38.538237",
+               "lng": "-121.756839",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Robert Mondavi Institute - South",
+               "link": "",
+               "abbr": "",
+               "lat": "38.532646",
+               "lng": "-121.750578",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Robert Mondavi Institute Brewery, Winery, and Food Pilot Facility",
+               "link": "",
+               "abbr": "",
+               "lat": "38.532042",
+               "lng": "-121.751017",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "International Center",
+               "link": "",
+               "abbr": "",
+               "lat": "38.545618",
+               "lng": "-121.754490",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Center for Vectorborne Diseases, Main Office",
+               "link": "",
+               "abbr": "",
+               "lat": "38.520461",
+               "lng": "-121.755506",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "John A. Jungerman Hall (formerly Crocker Nuclear Lab)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.536429",
+               "lng": "-121.752617",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Trinchero Family Estates Building",
+               "link": "",
+               "abbr": "",
+               "lat": "38.534563",
+               "lng": "-121.791109",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Valley Hall",
+               "link": "",
+               "abbr": "VALLEY",
+               "lat": "38.532823",
+               "lng": "-121.763704",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Silo",
+               "link": "",
+               "abbr": "SILO",
+               "lat": "38.538724",
+               "lng": "-121.753095",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hutchison Hall",
+               "link": "",
+               "abbr": "HUTCH",
+               "lat": "38.540962",
+               "lng": "-121.753678",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Mathematical Sciences Building",
+               "link": "",
+               "abbr": "MATSCI",
+               "lat": "38.535875",
+               "lng": "-121.752731",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Thermal Energy Storage",
+               "link": "",
+               "abbr": "",
+               "lat": "38.533636",
+               "lng": "-121.757072",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Cruess Hall",
+               "link": "",
+               "abbr": "CRUESS",
+               "lat": "38.543292",
+               "lng": "-121.754145",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Segundo Services Center",
+               "link": "",
+               "abbr": "SGUNDO",
+               "lat": "38.544969",
+               "lng": "-121.758691",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Center for Health & Environment Office & Laboratory",
+               "link": "",
+               "abbr": "CHE OFC&LAB",
+               "lat": "38.519694",
+               "lng": "-121.756434",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Animal Resource Service V (AH Goat)",
+               "link": "",
+               "abbr": "ARS V",
+               "lat": "38.51876",
+               "lng": "-121.752531",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Meyer Hall",
+               "link": "",
+               "abbr": "MEYER",
+               "lat": "38.53477",
+               "lng": "-121.754508",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Temporary Classrooms 2 & 3",
+               "link": "",
+               "abbr": "",
+               "lat": "38.535408",
+               "lng": "-121.753993",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Social Sciences & Humanities",
+               "link": "",
+               "abbr": "SOCSCI",
+               "lat": "38.543132",
+               "lng": "-121.747517",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Kemper Hall",
+               "link": "",
+               "abbr": "KEMPER",
+               "lat": "38.536994",
+               "lng": "-121.754909",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Animal Science Horse Barn",
+               "link": "",
+               "abbr": "",
+               "lat": "38.533376",
+               "lng": "-121.754891",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Wickson Hall",
+               "link": "",
+               "abbr": "WICKSN",
+               "lat": "38.542042",
+               "lng": "-121.75159",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "ARM Human Resources and Payroll Services Trailer",
+               "link": "",
+               "abbr": "",
+               "lat": "38.538932",
+               "lng": "-121.762822",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Walker Hall",
+               "link": "",
+               "abbr": "WALKER",
+               "lat": "38.539654",
+               "lng": "-121.750731",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Peter A. Rock Hall",
+               "link": "",
+               "abbr": "",
+               "lat": "38.538702",
+               "lng": "-121.751509",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Gourley Clinical Teaching Center",
+               "link": "",
+               "abbr": "GOURLEY",
+               "lat": "38.53158",
+               "lng": "-121.766881",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Mondavi Center for the Performing Arts - Administration",
+               "link": "",
+               "abbr": "",
+               "lat": "38.534131",
+               "lng": "-121.749869",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hunt Hall",
+               "link": "",
+               "abbr": "HUNT",
+               "lat": "38.543486",
+               "lng": "-121.750707",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 169",
+               "link": "",
+               "abbr": "Temporary Building 169",
+               "lat": "38.537584",
+               "lng": "-121.756291",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Peter J. Shields Library",
+               "link": "",
+               "abbr": "",
+               "lat": "38.53974",
+               "lng": "-121.749113",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Life Sciences",
+               "link": "",
+               "abbr": "LIF-SCI ADN",
+               "lat": "38.53961",
+               "lng": "-121.756743",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Educational Opportunity Program (EOP)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.540831",
+               "lng": "-121.747926",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Guilbert House",
+               "link": "",
+               "abbr": "GUILBERT HSE",
+               "lat": "38.541372",
+               "lng": "-121.746152",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Young Hall",
+               "link": "",
+               "abbr": "YOUNG",
+               "lat": "38.542401",
+               "lng": "-121.747709",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Meat Laboratory, Cole Facility Building C",
+               "link": "",
+               "abbr": "",
+               "lat": "38.534004",
+               "lng": "-121.755242",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Western Human Nutrition Research Center (WHNRC)",
+               "link": "",
+               "abbr": "",
+               "lat": "38.535025",
+               "lng": "-121.766217",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Center for Vectorborne Diseases, Staff Offices",
+               "link": "",
+               "abbr": "",
+               "lat": "38.520355",
+               "lng": "-121.755729",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Outdoor Adventures",
+               "link": "",
+               "abbr": "",
+               "lat": "38.540367",
+               "lng": "-121.762144",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 205",
+               "link": "",
+               "abbr": "Temporary Building 205",
+               "lat": "38.537995",
+               "lng": "-121.757131",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 206",
+               "link": "",
+               "abbr": "Temporary Building 206",
+               "lat": "38.535634",
+               "lng": "-121.754375",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 207",
+               "link": "",
+               "abbr": "Temporary Building 207",
+               "lat": "38.535809",
+               "lng": "-121.754025",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "TB 204",
+               "link": "",
+               "abbr": "Temporary Building 204",
+               "lat": "38.538241",
+               "lng": "-121.757163",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               },
+               {
+               "name": "Hangar",
+               "link": "",
+               "abbr": "HANGAR",
+               "lat": "38.533093",
+               "lng": "-121.790009",
+               "icon": "Building.png",
+               "glyph": "fa-building"
+               }
+               ]
+ }
+ ]
