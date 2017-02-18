@@ -150,7 +150,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hO6-Bp-dF3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1150" y="-1076"/>
+            <point key="canvasLocation" x="1177" y="-1116"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="C5L-uj-PAF">
@@ -170,14 +170,14 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vY5-ob-ZXZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1791" y="-1077"/>
+            <point key="canvasLocation" x="1866" y="-682"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="tK9-Tp-xXV">
             <objects>
                 <navigationController automaticallyAdjustsScrollViewInsets="NO" id="B6H-e3-x8h" sceneMemberID="viewController">
                     <toolbarItems/>
-                    <navigationBar key="navigationBar" contentMode="scaleToFill" id="wIG-6j-dcI">
+                    <navigationBar key="navigationBar" contentMode="scaleToFill" misplaced="YES" id="wIG-6j-dcI">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="44"/>
                         <autoresizingMask key="autoresizingMask"/>
                     </navigationBar>
@@ -188,7 +188,7 @@
                 </navigationController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="6m0-s7-13Y" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-223" y="-681"/>
+            <point key="canvasLocation" x="-508" y="-682"/>
         </scene>
         <!--View Controller Building-->
         <scene sceneID="aFu-fn-kU5">
@@ -240,7 +240,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gig-75-7v6" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1150" y="-409"/>
+            <point key="canvasLocation" x="1178" y="-203"/>
         </scene>
     </scenes>
     <resources>

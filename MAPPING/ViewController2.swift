@@ -18,6 +18,7 @@ class ViewController2: UIViewController
 
     override func viewDidLoad()
     {
+        
         let readableJSON = parseJSON()
         let lat = readableJSON[i]["locations"][j]["lat"].doubleValue
         
@@ -25,6 +26,7 @@ class ViewController2: UIViewController
         
         let camera = GMSCameraPosition.camera(withLatitude: lat, longitude: long, zoom: 16.0)
         let mapView = GMSMapView.map(withFrame: CGRect.zero, camera: camera)
+        
         view = mapView
         
         let marker = GMSMarker()

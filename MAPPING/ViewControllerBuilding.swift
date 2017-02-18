@@ -30,6 +30,7 @@ class ViewControllerBuilding: UIViewController , UITableViewDelegate, UITableVie
     {
         super.viewDidLoad()
         //print(Option)
+        
         Heading.text = stringPassed
     }
     
