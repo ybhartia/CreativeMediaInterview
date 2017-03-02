@@ -10,7 +10,8 @@ import UIKit
 import SwiftyJSON
 import GoogleMaps
 
-class ViewControllerBuilding: UIViewController , UITableViewDelegate, UITableViewDataSource{
+class ViewControllerBuilding: UIViewController , UITableViewDelegate, UITableViewDataSource
+{
 
     var stringPassed = ""
     var Option = Int()
@@ -29,8 +30,6 @@ class ViewControllerBuilding: UIViewController , UITableViewDelegate, UITableVie
     override func viewDidLoad()
     {
         super.viewDidLoad()
-        //print(Option)
-        
         Heading.text = stringPassed
     }
     
