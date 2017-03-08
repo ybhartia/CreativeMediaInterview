@@ -23,6 +23,8 @@
 		57EB7B191E433CB800E10994 /* SwiftyJSON.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57EB7B181E433CB800E10994 /* SwiftyJSON.framework */; };
 		57EB7B1B1E43409F00E10994 /* jsonFile.json in Resources */ = {isa = PBXBuildFile; fileRef = 57EB7B1A1E43409F00E10994 /* jsonFile.json */; };
 		57EB7B251E43599000E10994 /* ViewControllerBuilding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57EB7B241E43599000E10994 /* ViewControllerBuilding.swift */; };
+		57ECB08D1E6A01C0004D38AE /* ForFavorite.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57ECB08C1E6A01C0004D38AE /* ForFavorite.swift */; };
+		57ECB08F1E6A0581004D38AE /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57ECB08E1E6A0581004D38AE /* CoreLocation.framework */; };
 		6D8481140A936FCD19E09A7F /* Pods_MAPPING.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA8D287A9623CA1F58C031DB /* Pods_MAPPING.framework */; };
 /* End PBXBuildFile section */
 
@@ -68,6 +70,8 @@
 		57EB7B181E433CB800E10994 /* SwiftyJSON.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftyJSON.framework; path = "../../../Library/Developer/Xcode/DerivedData/MAPPING-fvxghwfommbllhaedqeogcqmbbua/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework"; sourceTree = "<group>"; };
 		57EB7B1A1E43409F00E10994 /* jsonFile.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = jsonFile.json; sourceTree = "<group>"; };
 		57EB7B241E43599000E10994 /* ViewControllerBuilding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerBuilding.swift; sourceTree = "<group>"; };
+		57ECB08C1E6A01C0004D38AE /* ForFavorite.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForFavorite.swift; sourceTree = "<group>"; };
+		57ECB08E1E6A0581004D38AE /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
 		FA8D287A9623CA1F58C031DB /* Pods_MAPPING.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MAPPING.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -76,6 +80,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				57ECB08F1E6A0581004D38AE /* CoreLocation.framework in Frameworks */,
 				576A2D121E4C2AF40038DB20 /* CoreData.framework in Frameworks */,
 				57EB7B191E433CB800E10994 /* SwiftyJSON.framework in Frameworks */,
 				57EB7B151E431EBF00E10994 /* Alamofire.framework in Frameworks */,
@@ -112,6 +117,7 @@
 		4830E72452B2F17D7E1E8B71 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				57ECB08E1E6A0581004D38AE /* CoreLocation.framework */,
 				576A2D111E4C2AF40038DB20 /* CoreData.framework */,
 				57EB7B181E433CB800E10994 /* SwiftyJSON.framework */,
 				57EB7B141E431EBF00E10994 /* Alamofire.framework */,
@@ -150,6 +156,7 @@
 				57EB7B241E43599000E10994 /* ViewControllerBuilding.swift */,
 				571416E21E3F1E2F00618916 /* ViewController.swift */,
 				576A2D0A1E4693430038DB20 /* Main.storyboard */,
+				57ECB08C1E6A01C0004D38AE /* ForFavorite.swift */,
 				571416E71E3F1E2F00618916 /* Assets.xcassets */,
 				571416E91E3F1E2F00618916 /* LaunchScreen.storyboard */,
 				571416EC1E3F1E2F00618916 /* Info.plist */,
@@ -374,6 +381,7 @@
 				571416E11E3F1E2F00618916 /* AppDelegate.swift in Sources */,
 				576A2D141E4C2B990038DB20 /* Model.xcdatamodeld in Sources */,
 				570B0F271E42AF88005B22AF /* ViewController2.swift in Sources */,
+				57ECB08D1E6A01C0004D38AE /* ForFavorite.swift in Sources */,
 				57EB7B251E43599000E10994 /* ViewControllerBuilding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

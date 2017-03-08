@@ -97,10 +97,10 @@
             </objects>
             <point key="canvasLocation" x="1177" y="-1116"/>
         </scene>
-        <!--View Controller-->
+        <!--View Controller For Favorite-->
         <scene sceneID="C5L-uj-PAF">
             <objects>
-                <viewController id="J2h-Ms-iax" sceneMemberID="viewController">
+                <viewController id="J2h-Ms-iax" customClass="ViewControllerForFavorite" customModule="MAPPING" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="C7V-MA-i3j"/>
                         <viewControllerLayoutGuide type="bottom" id="8ae-fv-Q1v"/>
@@ -111,7 +111,9 @@
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
                         <color key="tintColor" red="0.90196079019999997" green="0.90196079019999997" blue="0.90196079019999997" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
-                    <navigationItem key="navigationItem" id="m98-HG-XPn"/>
+                    <navigationItem key="navigationItem" id="m98-HG-XPn">
+                        <barButtonItem key="rightBarButtonItem" systemItem="action" id="f0a-QF-0NH"/>
+                    </navigationItem>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vY5-ob-ZXZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
