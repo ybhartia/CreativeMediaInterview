@@ -95,7 +95,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="hO6-Bp-dF3" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1177" y="-1116"/>
+            <point key="canvasLocation" x="1177" y="-1347"/>
         </scene>
         <!--View Controller For Favorite-->
         <scene sceneID="C5L-uj-PAF">
@@ -117,7 +117,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vY5-ob-ZXZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1866" y="-682"/>
+            <point key="canvasLocation" x="1894" y="-1347"/>
         </scene>
         <!--Navigation Controller-->
         <scene sceneID="tK9-Tp-xXV">
@@ -187,7 +187,25 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="gig-75-7v6" userLabel="First Responder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1178" y="-203"/>
+            <point key="canvasLocation" x="1177" y="10"/>
+        </scene>
+        <!--FinalMapFromCategories-->
+        <scene sceneID="ySm-XE-bjb">
+            <objects>
+                <viewController storyboardIdentifier="FinalMapFromCategories" title="FinalMapFromCategories" id="qHR-hH-e3W" customClass="FinalMapFromCategories" customModule="MAPPING" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="uO9-Qf-rW1"/>
+                        <viewControllerLayoutGuide type="bottom" id="iUI-ru-Jjf"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="zVV-lr-Mud">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                    </view>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="BND-rV-ZdZ" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1950" y="19"/>
         </scene>
     </scenes>
     <resources>

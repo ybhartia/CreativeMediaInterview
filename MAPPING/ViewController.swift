@@ -27,27 +27,22 @@ class ViewController: UIViewController , UITableViewDelegate, UITableViewDataSou
         tableView.delegate = self
         
         
-        URLSession(configuration: .default).dataTask(with: URL(string: "https://mobile.ucdavis.edu/locations")!) { data, response, error in
-            let json = JSON(data: data!)
-            
-            
-//      DispatchQueue.main.async {
-//                
-//            }
-        }
+//        URLSession(configuration: .default).dataTask(with: URL(string: "https://mobile.ucdavis.edu/locations")!) { data, response, error in
+//            let json = JSON(data: data!)
+//            
+//        }
     }
     
     
     @IBAction func Sender(_ sender: Any)
     {
         let readableJSON = parseJSON()
-        for i in 0...4
+        for i in 0...readableJSON.count
         {
             for j in 0...readableJSON[i]["locations"].count
             {
                 if(myTextField.text != "")
                 {
-                    
                     if( myTextField.text == readableJSON[i]["locations"][j]["name"].stringValue)
                     {
                         let myVC = storyboard?.instantiateViewController(withIdentifier: "ViewController2") as! ViewController2

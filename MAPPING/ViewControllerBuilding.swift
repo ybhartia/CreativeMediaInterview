@@ -54,21 +54,26 @@ class ViewControllerBuilding: UIViewController , UITableViewDelegate, UITableVie
     public func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath)
     {
         let readableJSON = parseJSON()
-        //print(readableJSON[Option]["locations"][indexPath.row]["name"].stringValue)
         
-        let lat = readableJSON[Option]["locations"][indexPath.row]["lat"].doubleValue
+        let myVC = storyboard?.instantiateViewController(withIdentifier: "FinalMapFromCategories") as! FinalMapFromCategories
         
-        let long = readableJSON[Option]["locations"][indexPath.row]["lng"].doubleValue
         
-        let camera = GMSCameraPosition.camera(withLatitude: lat, longitude: long, zoom: 16.0)
-        let mapView = GMSMapView.map(withFrame: CGRect.zero, camera: camera)
-        view = mapView
         
-        let marker = GMSMarker()
-        marker.position = CLLocationCoordinate2D(latitude: lat, longitude: long)
-        marker.title = readableJSON[Option]["locations"][indexPath.row]["name"].stringValue
-        marker.snippet = readableJSON[Option]["locations"][indexPath.row]["abbr"].stringValue
-        marker.map = mapView
+         myVC.lat = readableJSON[Option]["locations"][indexPath.row]["lat"].doubleValue
+        
+        myVC.long = readableJSON[Option]["locations"][indexPath.row]["lng"].doubleValue
+        
+        //let camera = GMSCameraPosition.camera(withLatitude: lat, longitude: long, zoom: 16.0)
+        //let mapView = GMSMapView.map(withFrame: CGRect.zero, camera: camera)
+        //view = mapView
+        
+        //let marker = GMSMarker()
+        //marker.position = CLLocationCoordinate2D(latitude: lat, longitude: long)
+        myVC.Tittle = readableJSON[Option]["locations"][indexPath.row]["name"].stringValue
+        myVC.Snippet = readableJSON[Option]["locations"][indexPath.row]["abbr"].stringValue
+        //marker.map = mapView
+        
+        navigationController?.pushViewController(myVC, animated: true)
     }
 
     

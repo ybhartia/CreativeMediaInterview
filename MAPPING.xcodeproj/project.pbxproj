@@ -25,6 +25,7 @@
 		57EB7B251E43599000E10994 /* ViewControllerBuilding.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57EB7B241E43599000E10994 /* ViewControllerBuilding.swift */; };
 		57ECB08D1E6A01C0004D38AE /* ForFavorite.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57ECB08C1E6A01C0004D38AE /* ForFavorite.swift */; };
 		57ECB08F1E6A0581004D38AE /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57ECB08E1E6A0581004D38AE /* CoreLocation.framework */; };
+		57ECB0911E70C7F6004D38AE /* FinalMapFromCategories.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57ECB0901E70C7F6004D38AE /* FinalMapFromCategories.swift */; };
 		6D8481140A936FCD19E09A7F /* Pods_MAPPING.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FA8D287A9623CA1F58C031DB /* Pods_MAPPING.framework */; };
 /* End PBXBuildFile section */
 
@@ -72,6 +73,7 @@
 		57EB7B241E43599000E10994 /* ViewControllerBuilding.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewControllerBuilding.swift; sourceTree = "<group>"; };
 		57ECB08C1E6A01C0004D38AE /* ForFavorite.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ForFavorite.swift; sourceTree = "<group>"; };
 		57ECB08E1E6A0581004D38AE /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		57ECB0901E70C7F6004D38AE /* FinalMapFromCategories.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FinalMapFromCategories.swift; sourceTree = "<group>"; };
 		FA8D287A9623CA1F58C031DB /* Pods_MAPPING.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_MAPPING.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -157,6 +159,7 @@
 				571416E21E3F1E2F00618916 /* ViewController.swift */,
 				576A2D0A1E4693430038DB20 /* Main.storyboard */,
 				57ECB08C1E6A01C0004D38AE /* ForFavorite.swift */,
+				57ECB0901E70C7F6004D38AE /* FinalMapFromCategories.swift */,
 				571416E71E3F1E2F00618916 /* Assets.xcassets */,
 				571416E91E3F1E2F00618916 /* LaunchScreen.storyboard */,
 				571416EC1E3F1E2F00618916 /* Info.plist */,
@@ -382,6 +385,7 @@
 				576A2D141E4C2B990038DB20 /* Model.xcdatamodeld in Sources */,
 				570B0F271E42AF88005B22AF /* ViewController2.swift in Sources */,
 				57ECB08D1E6A01C0004D38AE /* ForFavorite.swift in Sources */,
+				57ECB0911E70C7F6004D38AE /* FinalMapFromCategories.swift in Sources */,
 				57EB7B251E43599000E10994 /* ViewControllerBuilding.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
