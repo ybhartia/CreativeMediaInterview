@@ -1,10 +1,3 @@
-//
-//  ViewController.swift
-//  MAPPING
-//
-//  Created by yash bhartia on 1/29/17.
-//  Copyright © 2017 CreativeMedia. All rights reserved.
-//
 
 import UIKit
 import SwiftyJSON
@@ -25,12 +18,6 @@ class ViewController: UIViewController , UITableViewDelegate, UITableViewDataSou
         super.viewDidLoad()
         tableView.dataSource = self
         tableView.delegate = self
-        
-        
-//        URLSession(configuration: .default).dataTask(with: URL(string: "https://mobile.ucdavis.edu/locations")!) { data, response, error in
-//            let json = JSON(data: data!)
-//            
-//        }
     }
     
     

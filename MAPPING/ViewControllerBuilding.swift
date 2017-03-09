@@ -46,6 +46,7 @@ class ViewControllerBuilding: UIViewController , UITableViewDelegate, UITableVie
         let cell = tableView.dequeueReusableCell(withIdentifier: "cell", for: indexPath)
         let readableJSON = parseJSON()
         let label = readableJSON[Option]["locations"][indexPath.row]["name"].stringValue
+        
         cell.textLabel?.text = label
         
         return cell
@@ -54,24 +55,12 @@ class ViewControllerBuilding: UIViewController , UITableViewDelegate, UITableVie
     public func tableView(_ tableView: UITableView, didSelectRowAt indexPath: IndexPath)
     {
         let readableJSON = parseJSON()
-        
         let myVC = storyboard?.instantiateViewController(withIdentifier: "FinalMapFromCategories") as! FinalMapFromCategories
         
-        
-        
-         myVC.lat = readableJSON[Option]["locations"][indexPath.row]["lat"].doubleValue
-        
+        myVC.lat = readableJSON[Option]["locations"][indexPath.row]["lat"].doubleValue
         myVC.long = readableJSON[Option]["locations"][indexPath.row]["lng"].doubleValue
-        
-        //let camera = GMSCameraPosition.camera(withLatitude: lat, longitude: long, zoom: 16.0)
-        //let mapView = GMSMapView.map(withFrame: CGRect.zero, camera: camera)
-        //view = mapView
-        
-        //let marker = GMSMarker()
-        //marker.position = CLLocationCoordinate2D(latitude: lat, longitude: long)
         myVC.Tittle = readableJSON[Option]["locations"][indexPath.row]["name"].stringValue
         myVC.Snippet = readableJSON[Option]["locations"][indexPath.row]["abbr"].stringValue
-        //marker.map = mapView
         
         navigationController?.pushViewController(myVC, animated: true)
     }

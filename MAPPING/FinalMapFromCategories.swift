@@ -30,5 +30,17 @@ class FinalMapFromCategories: UIViewController {
         marker.map = mapView
         
     }
+    @IBAction func Directions(_ sender: Any)
+    {
+        var urlString = "http://maps.google.com/maps?"
+        //urlString += "saddr=25,55"
+        urlString += "daddr="
+        urlString += String(lat)
+        urlString += ","
+        urlString += String(long)
+        //print(urlString)
+        let url = URL(string: urlString)!
+        UIApplication.shared.open(url, options: [:], completionHandler: nil)
+    }
 
 }

@@ -12,16 +12,27 @@ import GoogleMaps
 import GooglePlaces
 
 class ViewControllerForFavorite: UIViewController {
-
+    
     override func viewDidLoad()
     {
         super.viewDidLoad()
-        print("Here")
+        print("In Favorite")
 //        
-        let urlToRequest = "https://maps.googleapis.com/maps/api/directions/json?origin=Boston,MA&destination=Concord,MA&key=AIzaSyCj7KDLr-eiWmghFqWfbHtspCf0nWeKWeQ"
+//        let urlToRequest = "https://maps.googleapis.com/maps/api/directions/json?origin=Boston,MA&destination=Concord,MA&key=AIzaSyCj7KDLr-eiWmghFqWfbHtspCf0nWeKWeQ"
+
+        
+//        var urlString = "http://maps.google.com/maps?"
+//        urlString += "saddr=25,55"
+//        urlString += "&daddr=26,55"
+//        print(urlString)
+//        let url = URL(string: urlString)!
+//          UIApplication.shared.open(url, options: [:], completionHandler: nil)
+        
+        
 //        
-        let requestURL: NSURL = NSURL(string: urlToRequest)!
-        let urlRequest: NSMutableURLRequest = NSMutableURLRequest(url: requestURL as URL)
+//        let urlToRequest = "https://mobile.ucdavis.edu/locations/"
+//        let requestURL: NSURL = NSURL(string: urlToRequest)!
+//        let urlRequest: NSMutableURLRequest = NSMutableURLRequest(url: requestURL as URL)
 //        
 //        let session = URLSession.shared
 //        
